@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**nombhekok-glitch/nombhekok-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙃I am Nombheko Khoza, a final year undergraduate IT Robotics student. 
+🦾I am passionate about robotics engineering and I enjoy seeing how systems come together from start to finish. 
+🌱I am currently working on my final year robotics project; a robot that harvests berries in a greenhouse.
+🐍I use Python for most of my projects. 
+🤔I would like help with using ROS2 in WSL, and how to use Docker for robotics.
 
-Here are some ideas to get you started:
+📩How to reach me:
+LinkedIn: www.linkedin.com/in/nombheko-khoza
+Email: khozanombheko@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡Fun Facts:
+-> Every part of the jonquil plant is toxic, meaning common garden pests like deer, squirrels, and voles leave them completely alone. 
+-> Butterflies can taste with their feet. They land on plants to taste leaves and find out if the food is good or safe to lay eggs on.
+-> I enjoy reading crime and thriller novels.
