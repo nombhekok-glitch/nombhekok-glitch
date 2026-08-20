@@ -13,4 +13,4 @@ Email: khozanombheko@gmail.com
 💡Fun Facts:
 -> Every part of the jonquil plant is toxic, meaning common garden pests like deer, squirrels, and voles leave them completely alone. 
 -> Butterflies can taste with their feet. They land on plants to taste leaves and find out if the food is good or safe to lay eggs on.
--> I enjoy reading crime and thriller novels.
+-> I enjoy reading crime/thriller novels.
