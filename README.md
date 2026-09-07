@@ -4,7 +4,6 @@
 🦾I am passionate about robotics engineering and I enjoy seeing how systems come together from start to finish. 
 🌱I am currently working on my final year robotics project; a robot that harvests berries in a greenhouse.
 🐍I use Python for most of my projects. 
-🤔I would like help with using ROS2 in WSL, and how to use Docker for robotics.
 
 📩How to reach me:
 LinkedIn: www.linkedin.com/in/nombheko-khoza
